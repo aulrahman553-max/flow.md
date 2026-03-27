@@ -1,4 +1,4 @@
-`mermaid
+```mermaid
 graph TD
     Start([Start]) --> InputN[/Input: Students Count/]
     InputN --> CreateArray[Create Dynamic Array]
